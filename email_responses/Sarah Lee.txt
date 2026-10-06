@@ -1,0 +1,19 @@
+Subject: Update on Junior React Developer Position
+
+Dear Sarah Lee,
+
+I hope this email finds you well. I am writing to provide you with an update on the status of your application for the Junior React Developer position at CrewAI. We appreciate the time and effort you took to share your qualifications and passion for development with us.
+
+After careful consideration, I regret to inform you that we will not be moving forward with your application at this time. Please know that this decision is in no way a reflection on your skills or potential as a developer. Our team has decided to pursue other candidates whose experience and fit for the role align more closely with our current needs.
+
+I want to express my gratitude for your interest in joining our team and for taking the time to apply for this role. Your self-taught development background and experience with React and Next.js are truly impressive, and I encourage you to continue developing your skills. Your personal blog and task manager app are excellent examples of your capabilities, and I'm sure you will achieve great success in your future endeavors.
+
+Thank you again for your interest in CrewAI, and I wish you all the best in your job search.
+
+Please feel free to reach out if you have any questions or need any further assistance.
+
+Best regards,
+
+Sarah
+HR Coordinator
+CrewAI

@@ -1,0 +1,17 @@
+Subject: Update on Junior React Developer Position
+
+Dear Daniel,
+
+I hope this email finds you well. I am writing to follow up on your application for the Junior React Developer position at CrewAI. We appreciate the time and effort you took to share your bio with us, which provided a great insight into your skills and experience.
+
+After careful consideration, I regret to inform you that we will not be moving forward with your application at this time. Please know that this decision is not a reflection on your qualifications or potential as a developer, but rather a result of our current project priorities and the competing candidates we received.
+
+I want to express my gratitude for your interest in joining our team and for your experience working with the Vercel AI SDK and CrewAI. We appreciate the skills and knowledge you bring to the table, and I wish you the best of luck in your future endeavors.
+
+Thank you again for your application, and I wish you all the best.
+
+Best regards,
+
+Sarah
+HR Coordinator
+CrewAI

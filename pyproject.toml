@@ -1,0 +1,30 @@
+[project]
+name = "sales-lead-agent"
+version = "0.1.0"
+description = "Sales Lead Agent using CrewAI"
+authors = [
+    { name = "Saroj Rawal" },
+]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.152.0",
+    "langchain-tools>=0.1.34",
+    "crewai-tools>=0.58.0",
+    "google-auth-oauthlib>=1.2.1",
+    "google-api-python-client>=2.145.0",
+    "pyvis>=0.3.2",
+    "litellm>=1.96.2",
+]
+
+[project.scripts]
+kickoff = "main:kickoff"
+plot = "main:plot"
+
+[build-system]
+requires = [
+    "hatchling",
+]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["main.py", "constants.py", "models.py", "crews", "utils", "leads.csv"]

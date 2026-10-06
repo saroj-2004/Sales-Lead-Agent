@@ -1,0 +1,15 @@
+Subject: Next Steps in Our Junior React Developer Position
+
+Dear Kate Adams,
+
+I hope this email finds you well. I am excited to let you know that after careful consideration, we are moving forward with your application for the Junior React Developer position at CrewAI. Your background in front-end development, experience with the Vercel AI SDK, and your enthusiasm for leveraging AI to improve user interaction and personalization truly caught our attention.
+
+As we move forward with the selection process, I would like to schedule a Zoom call to discuss your experience and qualifications further. Would you be available for a call within the next few days? I've checked our team's calendar, and we're available on either Wednesday, Thursday, or Friday this week. Please let me know which day suits you best, and we'll schedule the call accordingly.
+
+In the meantime, I want to thank you again for your interest in joining our team. We're impressed by your passion for AI and your skills in front-end development. We're looking forward to speaking with you soon.
+
+Best regards,
+
+Sarah
+HR Coordinator
+CrewAI

@@ -1,0 +1,19 @@
+Subject: Update on Junior React Developer Position
+
+Dear John,
+
+I hope this email finds you well. I wanted to personally reach out to you regarding the status of your application for the Junior React Developer position at CrewAI. We appreciate the time and effort you took to apply for this role and share your impressive background in front-end technologies with us.
+
+Your recent completion of a web development bootcamp, where you built multiple responsive websites using React, CSS, and HTML, is quite notable. Your passion for applying your skills in a real-world setting and growing as a developer aligns with our company values and goals. Your description of being highly detail-oriented and a fast learner also resonates with us, as we strive for excellence in our projects.
+
+After careful review of your application, we regret to inform you that we will not be moving forward with your candidacy at this time. While your background and qualifications are strong, we have decided to pursue other candidates whose skills and experiences better fit the specific needs of our team.
+
+Please know that this decision is in no way a reflection on your abilities or potential as a developer. You have taken a significant step forward in your career with the completion of your bootcamp, and we wish you the best of luck in your future endeavors.
+
+Thank you again for considering CrewAI as a potential career opportunity. We appreciate the interest you showed in our company, and we wish you continued success in your pursuit of new challenges.
+
+Best regards,
+
+Sarah
+HR Coordinator
+CrewAI
